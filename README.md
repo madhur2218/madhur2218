@@ -2,10 +2,6 @@
 <h3 align="center">AI Enthusiast | Data Engineer | Java Backend Developer | Patent Holder | Hackathon Winner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExvMq4sT0kIh0bG/giphy.gif" width="300"/> <!-- Add an AI / coding GIF -->
-</p>
-
-<p align="center">
   <a href="https://github.com/madhur2218">
     <img src="https://komarev.com/ghpvc/?username=madhur2218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
@@ -21,11 +17,7 @@
 - 📊 Passionate about **Data Engineering, AI, Robotics, NLP, Computer Vision, and LLMs**  
 - 🏆 **17+ Hackathon Wins** (National & International)  
 - 📝 **5 Research Papers** published in reputed journals  
-- 🔬 Holder of a **German Utility Patent**  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/> <!-- AI / Data Science GIF -->
-</p>
+- 🔬 Holder of a **German Utility Patent**
 
 ---
 
@@ -45,17 +37,13 @@
 
 ## 🏆 Achievements  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l4pTdcif9aNjcQ52A/giphy.gif" width="300"/> <!-- Winner / trophy GIF -->
-</p>
-
 - 🎓 **Certified and Awarded as a Creative Educator** by Adobe Education Exchange  
-- 🥉 **Second Runner-up** in CODEXTHON Hackathon (MNIT): Best AI/ML project in Healthcare  
+- 🥉 **Second Runner-up** in CODEXTHON Hackathon (MNIT): Best AI/ML project in Healthcare sector  
 - 🏆 **Winner** in AI4HACKS Hackathon (University of Toronto, Major League Hacking, Intel, IBM); **Cash Prize: CAD 400**  
 - 🏆 **Winner** of Engage Hackathon (The NorthCap University); **Cash Prize: ₹10,000**  
 - 🥉 **3rd Prize** in Siemens Healthineers Hackathon; **Cash Prize: ₹1,00,000**  
 - 🏆 **Winner** of Bitget U-30 Hackathon; **Cash Prize: USD 10,000** – Best UI/UX design in AI/ML project  
-- *(Add the rest of achievements as before)*  
+- *(Add the rest of your achievements here as before)*  
 
 ---
 
