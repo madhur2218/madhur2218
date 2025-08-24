@@ -170,6 +170,19 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhur2218&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhur2218&theme=radical" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur2218&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 ### 🤝 Connect With Me  
 
 <p align="center">
