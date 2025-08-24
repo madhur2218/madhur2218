@@ -152,7 +152,7 @@
 - 🏆 **Winner** of Bitget U-30 Hackathon; **Cash Prize: USD 10,000** – Best UI/UX design in AI/ML project  
 - 🥉 **Second Runner-up** in National Idea Hackathon23 (NIT Jamshedpur); **Cash Prize: ₹5,000**  
 - 🏆 **Winner-3** at Innovation Think Tank (ITT) Certification Program, Siemens Healthineers
-- 
+  
 ---
 
 ## 📄 Research & Publications  
