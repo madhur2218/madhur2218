@@ -193,13 +193,5 @@
 ---
 
 <p align="center">
-  🚀 Crafted with ❤️ & ☕ by **Madhur Nagrath**  
-  <br/>
-  🌟 Always Exploring AI, Data & Innovation  
-  <br/>
-  © 2025 All Rights Reserved
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=madhur2218&theme=react-dark" width="100%" />
+  🚀 Crafted with ❤️ by **Madhur Nagrath** | 🌟 Exploring AI, Data & Innovation | © 2025
 </p>
