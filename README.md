@@ -23,24 +23,44 @@
 ---
 
 ## 🌟 About Me
-- 💻 Java Developer / Data Engineer @ **Siemens Healthineers** (SA@MI)  
+- 💻 Java Developer / Data Engineer @ **Siemens Healthineers** (SA@MI)
+- 🎓 Upcoming **MSc Student at FAU Erlangen** 
 - 📊 Passionate about **Data Engineering, AI, Robotics, NLP, Computer Vision & LLMs**  
 - 🏆 **17+ Hackathon Wins** (National & International)  
-- 📝 **4 Research Papers** in reputed journals  
+- 📝 **5 Research Papers** in reputed journals  
 - 🔬 Holder of a **German Utility Patent**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
+## 🛠️ Tech Stack  
+
+### 💻 Programming & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,tensorflow,pytorch,scikitlearn,opencv,mysql,postgres,sqlite,mssql,docker,git,github,aws,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flask,html,css" />
 </p>
 
+### 🗄️ Databases & Data Engineering
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mssql,opensearch" />
+  <img src="https://img.shields.io/badge/Airflow-FF6600?style=for-the-badge&logo=airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML / LLMs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv" />
   <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFAE1A?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/LLMs-GPT--3.5/4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,aws" />
 </p>
 
 ---
@@ -60,16 +80,26 @@
 
 ## 🏆 Achievements  
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Adobe-Creative_Educator-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CODEXTHON-2nd_RunnerUp-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BIZ-VIZ-1st_RunnerUp-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI4HACKS-Winner-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engage_Winners-purple?style=for-the-badge" />
-</p>
-
-*(Check full achievements list in previous section)*
-
+- 🎓 **Certified and Awarded as a Creative Educator** by Adobe Education Exchange  
+- 🥉 **Second Runner-up** in CODEXTHON Hackathon (MNIT): Best AI/ML project in Healthcare sector with **O'Reilly Media free subscription**  
+- 🥈 **First Runner-up** in BIZ-VIZ Hackathon (BITS-PILANI): BIZ-MASTER award for dashboard/storytelling approach out of 690 teams; **Cash Prize: ₹5,000**  
+- 🏆 **Winner** in AI4HACKS Hackathon (University of Toronto, Major League Hacking, Intel, IBM): Best AI + Data in Healthcare project out of 534 teams; **Cash Prize: CAD 400**  
+- 🏆 **Winner** of Engage Hackathon (The NorthCap University); **Cash Prize: ₹10,000**  
+- 🥉 **3rd Prize** in Siemens Healthineers Hackathon; **Cash Prize: ₹1,00,000**  
+- 🏅 Miscellaneous Track Award in HackTech22 (Padre Conceicao College of Engineering, Goa); **Cash Prize: ₹10,000**  
+- 🏆 **Winner** in Code With Harnoor Hackathon (Georgia Tech, USA) – Best AI/ML project in Healthcare; **Cash Prize: USD 50** out of 335 participants  
+- 🥈 **First Runner-up** in Inspire Hackathon (The NorthCap University)  
+- 🏆 **Best Project** in Leasing & Pooling of Medical Equipments Track at Manipal 2022 Hackathon out of 2,095 teams  
+- 🏆 **Winner** of HacXmas22 Hackathon (Birla Institute of Technology, Deoghar)  
+- 🥉 **Second Runner-up** in Conqueror Hackathon (COE Chengannur); **Cash Prize: ₹4,000**  
+- 🥈 **First Runner-up** in International Startup Idea Competition (Universitas Esa Unggul & Arizona State University, USA)  
+- 🏆 **Winner** of Envisage Hackathon (Gemini Solutions Pvt. Ltd)  
+- 🏆 **Winner** of Vdoit Hackathon; **Cash Prize: ₹5,000**  
+- 🏆 **Finalist** in Eximius 2023 (IIM Bangalore, Flagship Innovation Challenge)  
+- 🏆 **Winner** of Bitget U-30 Hackathon; **Cash Prize: USD 10,000** – Best UI/UX design in AI/ML project  
+- 🥉 **Second Runner-up** in National Idea Hackathon23 (NIT Jamshedpur); **Cash Prize: ₹5,000**  
+- 🏆 **Winner-3** at Innovation Think Tank (ITT) Certification Program, Siemens Healthineers
+- 
 ---
 
 ## 📄 Research & Publications  
@@ -92,7 +122,6 @@
 <p align="center">
   <a href="mailto:madhurnagrath@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/madhur-nagrath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/madhur2218"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
 
 ---
