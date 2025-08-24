@@ -2,11 +2,11 @@
 <h3 align="center">AI Enthusiast | Data Engineer | Java Backend Developer | Patent Holder | Hackathon Winner</h3>
 
 <p align="center">
-  <a href="https://github.com/madhurnagrath">
-    <img src="https://komarev.com/ghpvc/?username=madhurnagrath&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/madhur2218">
+    <img src="https://komarev.com/ghpvc/?username=madhur2218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://github.com/madhurnagrath?tab=followers">
-    <img src="https://img.shields.io/github/followers/madhurnagrath?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/madhur2218?tab=followers">
+    <img src="https://img.shields.io/github/followers/madhur2218?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
@@ -80,10 +80,11 @@
 - 📜 **UK Design Patent**: *An Interactive 3D Visualization Device for Enhanced Medical Training* ([Link](https://www.registered-design.service.gov.uk/find/6375486))  
 
 ### 📑 Research Papers
-- Nagrath, M., Sahu, A. K., Jangid, N., Sharma, M., & Chaudhary, P. (2024). **Enhanced skin burn assessment through transfer learning: A novel framework for human tissue analysis**. *Journal of Medical Engineering & Technology, Advance online publication.* ([Link](https://www.tandfonline.com/doi/full/10.1080/03091902.2021.1886921))  
-- **Leveraging Deep Pre-trained Networks for Advanced Skin Lesion Classification for Human Monkeypox Detection** ([Add link if available])  
-- **Assessing the Impact of Virtual Reality Integration in PET-CT Scans: A New Frontier in Radiology** ([Add link if available])  
-- **Identification and Classification of Potato and Pepper Bell Disease Using Convolution Neural Network** ([Add link if available])  
+- Nagrath, M., Sahu, A. K., Jangid, N., Sharma, M., & Chaudhary, P. (2024). **Enhanced skin burn assessment through transfer learning: A novel framework for human tissue analysis**. *Journal of Medical Engineering & Technology* ([PubMed Link](https://pubmed.ncbi.nlm.nih.gov/38517037/))  
+- Nagrath, M., Chaudhary, P., Sharma, M., Ashish, K. (2024). **A Transfer Learning-Based Framework for Skin Cancer Evaluation**. *Taylor & Francis* ([Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003467281-17/transfer-learning-based-framework-skin-cancer-evaluation-madhur-nagrath-poonam-chaudhary-meghna-sharma-ajay-kumar-ashish-kumar?context=ubx&refId=9ddb28ae-99f8-4ec0-9af2-981803fc24c0))  
+- **Leveraging Deep Pre-trained Networks for Advanced Skin Lesion Classification for Human Monkeypox Detection** ([Link](https://qtanalytics.in/journals/index.php/IJERR/article/view/4439))  
+- **Assessing the Impact of Virtual Reality Integration in PET-CT Scans: A New Frontier in Radiology** ([Link](https://www.ijfmr.com/research-paper.php?id=27212))  
+- **Identification and Classification of Potato and Pepper Bell Disease Using Convolution Neural Network** ([Link](https://www.academia.edu/124129682/Madhur_Nagrath_Identification_and_Classification_of_Potato_and_Pepper_bell_Disease_Using_Convolution_Neural_Network_))  
 
 
 ---
@@ -92,10 +93,16 @@
 
 <p align="center">
   <a href="mailto:madhurnagrath@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://linkedin.com/in/madhurnagrath"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/madhurnagrath"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
+  <a href="https://www.linkedin.com/in/madhur-nagrath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://github.com/madhur2218"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
 
 ---
 
-<p align="center">⭐️ From <a href="https://github.com/madhurnagrath">Madhur Nagrath</a></p>
+<p align="center">
+  🚀 Crafted with ❤️ and ☕ by **Madhur Nagrath**  
+  <br/>
+  🌟 Always exploring AI, Data & Innovation  
+  <br/>
+  © 2025 All Rights Reserved
+</p>
