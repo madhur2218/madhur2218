@@ -2,6 +2,10 @@
 <h3 align="center">AI Enthusiast | Data Engineer | Java Backend Developer | Patent Holder | Hackathon Winner</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/l0ExvMq4sT0kIh0bG/giphy.gif" width="300"/> <!-- Add an AI / coding GIF -->
+</p>
+
+<p align="center">
   <a href="https://github.com/madhur2218">
     <img src="https://komarev.com/ghpvc/?username=madhur2218&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
@@ -14,12 +18,16 @@
 
 ### 🌟 About Me  
 - 💻 Java Developer/Data Engineer @ **Siemens Healthineers** (SA@MI)  
-- 📊 Passionate about **Data Engineering, AI, and Large Language Models (LLMs)**  
+- 📊 Passionate about **Data Engineering, AI, Robotics, NLP, Computer Vision, and LLMs**  
 - 🏆 **17+ Hackathon Wins** (National & International)  
-- 📝 **4 Research Papers** published in reputed journals  
-- 🔬 Holder of a **German Utility Patent**
+- 📝 **5 Research Papers** published in reputed journals  
+- 🔬 Holder of a **German Utility Patent**  
 
---- 
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400"/> <!-- AI / Data Science GIF -->
+</p>
+
+---
 
 ## 🛠️ Tech Stack  
 
@@ -33,44 +41,22 @@
   <img src="https://img.shields.io/badge/LLMs-GPT--3.5/4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-
 ---
 
-### 📊 GitHub Stats  
+## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhur2218&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhur2218&theme=radical" alt="GitHub Streak" height="180" />
+  <img src="https://media.giphy.com/media/l4pTdcif9aNjcQ52A/giphy.gif" width="300"/> <!-- Winner / trophy GIF -->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhur2218&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+- 🎓 **Certified and Awarded as a Creative Educator** by Adobe Education Exchange  
+- 🥉 **Second Runner-up** in CODEXTHON Hackathon (MNIT): Best AI/ML project in Healthcare  
+- 🏆 **Winner** in AI4HACKS Hackathon (University of Toronto, Major League Hacking, Intel, IBM); **Cash Prize: CAD 400**  
+- 🏆 **Winner** of Engage Hackathon (The NorthCap University); **Cash Prize: ₹10,000**  
+- 🥉 **3rd Prize** in Siemens Healthineers Hackathon; **Cash Prize: ₹1,00,000**  
+- 🏆 **Winner** of Bitget U-30 Hackathon; **Cash Prize: USD 10,000** – Best UI/UX design in AI/ML project  
+- *(Add the rest of achievements as before)*  
 
----
-
-## 🏆 Achievements
-
-- 🎓 **Certified and Awarded as a Creative Educator** by Adobe Education Exchange.  
-- 🥉 **Second Runner-up** in CODEXTHON Hackathon (MNIT): Best AI/ML project in Healthcare sector with **O'Reilly Media free subscription**.  
-- 🥈 **First Runner-up** in BIZ-VIZ Hackathon (BITS-PILANI): BIZ-MASTER award for dashboard/storytelling approach out of 690 teams; **Cash Prize: ₹5,000**.  
-- 🏆 **Winner** in AI4HACKS Hackathon (University of Toronto, Major League Hacking, Intel, IBM): Best AI + Data in Healthcare project out of 534 teams; **Cash Prize: CAD 400**.  
-- 🏆 **Winner** of Engage Hackathon (The NorthCap University); **Cash Prize: ₹10,000**.  
-- 🥉 **3rd Prize** in Siemens Healthineers Hackathon; **Cash Prize: ₹1,00,000**.  
-- 🏅 Miscellaneous Track Award in HackTech22 (Padre Conceicao College of Engineering, Goa); **Cash Prize: ₹10,000**.  
-- 🏆 **Winner** in Code With Harnoor Hackathon (Georgia Tech, USA) – Best AI/ML project in Healthcare; **Cash Prize: USD 50** out of 335 participants.  
-- 🥈 **First Runner-up** in Inspire Hackathon (The NorthCap University).  
-- 🏆 **Best Project** in Leasing & Pooling of Medical Equipments Track at Manipal 2022 Hackathon out of 2,095 teams.  
-- 🏆 **Winner** of HacXmas22 Hackathon (Birla Institute of Technology, Deoghar).  
-- 🥉 **Second Runner-up** in Conqueror Hackathon (COE Chengannur); **Cash Prize: ₹4,000**.  
-- 🥈 **First Runner-up** in International Startup Idea Competition (Universitas Esa Unggul & Arizona State University, USA).  
-- 🏆 **Winner** of Envisage Hackathon (Gemini Solutions Pvt. Ltd).  
-- 🏆 **Winner** of Vdoit Hackathon; **Cash Prize: ₹5,000**.  
-- 🏆 **Finalist** in Eximius 2023 (IIM Bangalore, Flagship Innovation Challenge).  
-- 🏆 **Winner** of Bitget U-30 Hackathon; **Cash Prize: USD 10,000** – Best UI/UX design in AI/ML project.  
-- 🥉 **Second Runner-up** in National Idea Hackathon23 (NIT Jamshedpur); **Cash Prize: ₹5,000**.  
-- 🏆 **Winner-3** at Innovation Think Tank (ITT) Certification Program, Siemens Healthineers.
-  
 ---
 
 ## 📄 Research & Publications
@@ -80,12 +66,11 @@
 - 📜 **UK Design Patent**: *An Interactive 3D Visualization Device for Enhanced Medical Training* ([Link](https://www.registered-design.service.gov.uk/find/6375486))  
 
 ### 📑 Research Papers
-- Nagrath, M., Sahu, A. K., Jangid, N., Sharma, M., & Chaudhary, P. (2024). **Enhanced skin burn assessment through transfer learning: A novel framework for human tissue analysis**. *Journal of Medical Engineering & Technology* ([PubMed Link](https://pubmed.ncbi.nlm.nih.gov/38517037/))  
-- Nagrath, M., Chaudhary, P., Sharma, M., Ashish, K. (2024). **A Transfer Learning-Based Framework for Skin Cancer Evaluation**. *Taylor & Francis* ([Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003467281-17/transfer-learning-based-framework-skin-cancer-evaluation-madhur-nagrath-poonam-chaudhary-meghna-sharma-ajay-kumar-ashish-kumar?context=ubx&refId=9ddb28ae-99f8-4ec0-9af2-981803fc24c0))  
+- Nagrath, M., et al. (2024). **Enhanced skin burn assessment through transfer learning**. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38517037/)  
+- **A Transfer Learning-Based Framework for Skin Cancer Evaluation**. [Taylor & Francis](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003467281-17/transfer-learning-based-framework-skin-cancer-evaluation-madhur-nagrath-poonam-chaudhary-meghna-sharma-ajay-kumar-ashish-kumar?context=ubx&refId=9ddb28ae-99f8-4ec0-9af2-981803fc24c0)  
 - **Leveraging Deep Pre-trained Networks for Advanced Skin Lesion Classification for Human Monkeypox Detection** ([Link](https://qtanalytics.in/journals/index.php/IJERR/article/view/4439))  
-- **Assessing the Impact of Virtual Reality Integration in PET-CT Scans: A New Frontier in Radiology** ([Link](https://www.ijfmr.com/research-paper.php?id=27212))  
-- **Identification and Classification of Potato and Pepper Bell Disease Using Convolution Neural Network** ([Link](https://www.academia.edu/124129682/Madhur_Nagrath_Identification_and_Classification_of_Potato_and_Pepper_bell_Disease_Using_Convolution_Neural_Network_))  
-
+- **Assessing the Impact of VR Integration in PET-CT Scans** ([Link](https://www.ijfmr.com/research-paper.php?id=27212))  
+- **Identification & Classification of Potato and Pepper Bell Disease Using CNN** ([Link](https://www.academia.edu/124129682/Madhur_Nagrath_Identification_and_Classification_of_Potato_and_Pepper_bell_Disease_Using_Convolution_Neural_Network_))  
 
 ---
 
@@ -94,7 +79,6 @@
 <p align="center">
   <a href="mailto:madhurnagrath@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/madhur-nagrath/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/madhur2218"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"/></a>
 </p>
 
 ---
