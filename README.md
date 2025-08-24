@@ -1,15 +1,13 @@
 <h1 align="center">
   <span style="background: linear-gradient(to right, #FF512F, #DD2476); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Madhur Nagrath
+    Hey There!, I'm Madhur Nagrath
   </span>
 </h1>
 <h3 align="center">
-  <span style="color:#FF6F61;">AI Enthusiast</span> | 
-  <span style="color:#00BFFF;">Data Engineer</span> | 
-  <span style="color:#FFD700;">Java Backend Developer</span> | 
-  <span style="color:#32CD32;">Patent Holder</span> | 
-  <span style="color:#FF69B4;">Hackathon Winner</span>
+  <span style="color:#FF6F61;">Problem</span> 
+  <span style="color:#FFB347;">Solver</span> 
 </h3>
+
 
 <p align="center">
   <a href="https://github.com/madhur2218">
