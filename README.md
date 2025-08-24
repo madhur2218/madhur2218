@@ -1,4 +1,4 @@
-<<h1 align="center">
+<h1 align="center">
   <span style="background: linear-gradient(to right, #FF512F, #DD2476); -webkit-background-clip: text; color: transparent;">
     Hey there! I'm Madhur Nagrath
   </span>
